@@ -1,0 +1,40 @@
+﻿<Window x:Class="VLE.homework_ball"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VLE"
+        mc:Ignorable="d"
+        Title="homework_ball" Height="300" Width="300">
+    <Grid>
+
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFC702FF" Offset="0"/>
+                <GradientStop Color="#FFD0FF00" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border MinWidth="50" Margin="10,43,9.6,55.4" Background="White" VerticalAlignment="Center" Padding="30"  CornerRadius="10" Height="172">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="600" Color="LightGray" ShadowDepth="0"/>
+            </Border.Effect>
+        </Border>
+
+        <Label Content="Name homework" HorizontalAlignment="Left" Margin="68,111,0,0" VerticalAlignment="Top" Width="176" HorizontalContentAlignment="Center" Height="34" FontFamily="Impact" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="31" Margin="36,66,0,0" TextWrapping="Wrap" Text="" x:Name="user" VerticalAlignment="Top" Width="234" FontSize="18" Foreground="#FFC707FA"/>
+
+        <Label Content="Name student" HorizontalAlignment="Left" Margin="68,43,0,0" VerticalAlignment="Top" Width="176" HorizontalContentAlignment="Center" Height="34" FontFamily="Impact" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="31" Margin="36,136,0,0" TextWrapping="Wrap" Text="" x:Name="course" VerticalAlignment="Top" Width="234" FontSize="18" Foreground="#FFC707FA"/>
+
+
+        <Button Content="Search" HorizontalAlignment="Left" Margin="83,178,0,0" VerticalAlignment="Top" Width="139"  Height="37" BorderBrush="#FFC63BCC" FontFamily="Impact" FontSize="14" Foreground="White" Click="Button_Click_1">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFC73ACB" Offset="0.791"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

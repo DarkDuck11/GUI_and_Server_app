@@ -1,0 +1,111 @@
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\VLE.csprojAssemblyReference.cache
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\App.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\VLE_MarkupCompile.cache
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\VLE_MarkupCompile.lref
+C:\Users\maxur\source\repos\VLE\VLE\bin\Debug\VLE.exe.config
+C:\Users\maxur\source\repos\VLE\VLE\bin\Debug\VLE.exe
+C:\Users\maxur\source\repos\VLE\VLE\bin\Debug\VLE.pdb
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\VLE.g.resources
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\VLE.Properties.Resources.resources
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\VLE.csproj.GenerateResource.cache
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\VLE.csproj.CoreCompileInputs.cache
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\VLE.exe
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\VLE.pdb
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\Register.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\Register.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\log.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\log.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\course1.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\Main_WINDOW.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\search.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\course1.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\Main_WINDOW.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\search.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\homework1.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\homework1.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\ball.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\ball.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\create_course.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\Delete_course.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\homework_ball.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\main_window_teachet.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\create_course.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\Delete_course.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\homework_ball.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\main_window_teachet.baml
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\homework_student.g.cs
+C:\Users\maxur\source\repos\VLE\VLE\obj\Debug\homework_student.baml
+D:\проекти\ipz\VLE\VLE\bin\Debug\VLE.exe.config
+D:\проекти\ipz\VLE\VLE\bin\Debug\VLE.exe
+D:\проекти\ipz\VLE\VLE\bin\Debug\VLE.pdb
+D:\проекти\ipz\VLE\VLE\obj\Debug\VLE.csproj.AssemblyReference.cache
+D:\проекти\ipz\VLE\VLE\obj\Debug\ball.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\course1.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\create_course.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\Delete_course.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\homework1.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\homework_ball.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\homework_student.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\log.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\Main_WINDOW.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\main_window_teachet.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\Register.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\search.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\App.g.cs
+D:\проекти\ipz\VLE\VLE\obj\Debug\VLE_MarkupCompile.cache
+D:\проекти\ipz\VLE\VLE\obj\Debug\VLE_MarkupCompile.lref
+D:\проекти\ipz\VLE\VLE\obj\Debug\ball.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\course1.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\create_course.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\Delete_course.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\homework1.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\homework_ball.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\homework_student.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\log.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\Main_WINDOW.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\main_window_teachet.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\Register.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\search.baml
+D:\проекти\ipz\VLE\VLE\obj\Debug\VLE.g.resources
+D:\проекти\ipz\VLE\VLE\obj\Debug\VLE.Properties.Resources.resources
+D:\проекти\ipz\VLE\VLE\obj\Debug\VLE.csproj.GenerateResource.cache
+D:\проекти\ipz\VLE\VLE\obj\Debug\VLE.csproj.CoreCompileInputs.cache
+D:\проекти\ipz\VLE\VLE\obj\Debug\VLE.exe
+D:\проекти\ipz\VLE\VLE\obj\Debug\VLE.pdb
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\bin\Debug\VLE.exe.config
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\bin\Debug\VLE.exe
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\bin\Debug\VLE.pdb
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\VLE.csprojAssemblyReference.cache
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\ball.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\course1.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\create_course.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\Delete_course.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\homework1.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\homework_ball.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\homework_student.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\log.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\Main_WINDOW.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\main_window_teachet.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\Register.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\search.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\App.g.cs
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\VLE_MarkupCompile.cache
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\VLE_MarkupCompile.lref
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\ball.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\course1.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\create_course.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\Delete_course.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\homework1.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\homework_ball.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\homework_student.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\log.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\Main_WINDOW.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\main_window_teachet.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\Register.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\search.baml
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\VLE.g.resources
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\VLE.Properties.Resources.resources
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\VLE.csproj.GenerateResource.cache
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\VLE.csproj.CoreCompileInputs.cache
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\VLE.exe
+C:\Users\maxur\OneDrive\Рабочий стол\ipz\ipz\VLE\VLE\obj\Debug\VLE.pdb
